@@ -4,3 +4,4 @@ pydantic
 websockets 
 pydantic 
 python-multipart
+gunicorn
